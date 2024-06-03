@@ -1,0 +1,25 @@
+my-app/
+├── client/
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       │   ├── AdminPage.js
+│       │   ├── LandingPage.js
+│       │   ├── LoginPage.js
+│       │   └── RegisterPage.js
+│       ├── axiosConfig.js
+│       ├── App.js
+│       ├── index.js
+│       └── index.css
+├── src/
+│   ├── controllers/
+│   ├── routes/
+│   │   └── userRoutes.js
+│   ├── models/
+│   │   ├── db.js
+│   │   └── userModel.js
+│   └── server.js
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── README.md
